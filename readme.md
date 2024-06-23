@@ -1,3 +1,5 @@
+[forked from danjulio]
+
 ## ESP32-based Thermal Imaging Cameras
 tCam, tCam-Mini and tCam-POE are three cameras I designed around the ESP32 and Lepton 3.5.  They are designed to provide easy access to radiometric data from the Lepton.  Radiometric data is useful because it contains temperature information for each pixel in the camera's image allowing for all kinds of data analysis even if the image is stored to a file.
 
